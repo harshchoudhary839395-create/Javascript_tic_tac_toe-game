@@ -28,6 +28,7 @@ body{
 .box{
     margin: 0px;
     padding: 0px;
+    color: black;
     background-color: aqua;
     text-align: center;
     height: 18vmin;
